@@ -1,0 +1,8 @@
+{
+  "name": "Collaborative Editor",
+  "description": "Real-time collaborative markdown document editor using MERN and Socket.IO.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
