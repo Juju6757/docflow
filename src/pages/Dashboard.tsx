@@ -123,7 +123,7 @@ export default function Dashboard() {
           <div className="w-8 h-8 rounded-lg bg-indigo-600 flex items-center justify-center text-white">
             <FileText className="w-5 h-5" />
           </div>
-          <h1 className="text-xl font-bold text-gray-900 dark:text-white">Docs</h1>
+          <h1 className="text-xl font-bold text-gray-900 dark:text-white">DocFlow</h1>
         </div>
         <div className="flex items-center gap-2 sm:gap-4">
           <div className="text-sm text-gray-600 dark:text-gray-300 hidden sm:block">{user?.name}</div>
